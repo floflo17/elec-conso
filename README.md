@@ -7,3 +7,8 @@ Mots clés :
 Puissance KW/h
 Tension(Volt)
 Intensité(Ampère)
+Résistance
+
+U=RI
+P=UI
+P=RI²
