@@ -1,4 +1,4 @@
-# elec-conso
+﻿# elec-conso
 Mots clés (keywords)
 Puissance KW/h
 Tension(Volt)
@@ -14,8 +14,7 @@ Software that compares the power consumption of a home compared to the consumpti
 
 FRANCAIS
 Le logiciel qui compare la consommation de puissance d'un foyer par rapport à la consommation d'une autre maison à différents moments de la journée ou de la nuit ou pendant une période.
-
-
+le logiciel demandera la superficie de la maison ainsi que le nombre et la puissance de chaque radiateur.
 
 GERMANY
 Software, die den Energieverbrauch eines Hauses im Vergleich zu dem Verbrauch von einem anderen Haus zu verschiedenen Zeiten des Tages oder der Nacht oder während eines Zeitraums vergleicht.
@@ -25,3 +24,4 @@ software que compara el consumo de energía de un hogar en comparación con el c
 
 ITALIAN
 software che confronta il consumo di energia di una casa rispetto al consumo di un'altra casa in diversi momenti del giorno o della notte o durante un periodo.
+
